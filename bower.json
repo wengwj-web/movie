@@ -1,0 +1,24 @@
+{
+  "name": "movie",
+  "authors": [
+    "wwj"
+  ],
+  "description": "movie build node",
+  "main": "",
+  "keywords": [
+    "movie"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "3.0.0"
+  }
+}

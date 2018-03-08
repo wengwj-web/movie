@@ -1,0 +1,20 @@
+{
+  "name": "node-mongodb-demo",
+  "version": "1.0.0",
+  "description": "movie",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "jade": "^1.11.0",
+    "moment": "^2.18.1",
+    "mongoose": "^4.11.5",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wwj",
+  "license": "ISC"
+}
